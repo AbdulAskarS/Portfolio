@@ -1,0 +1,24 @@
+[
+  {
+    "id": "blog-1",
+    "title": "Migrating to Next.js 15 & React 19: Architecture & Performance Lessons",
+    "description": "A deep dive into migrating large-scale React applications to Next.js 15, detailing async router APIs, hydration fixes, and caching.",
+    "content": "Next.js 15 introduces several breaking changes... Here is how we managed the transition, cleaned up configuration files, and resolved React 19 server component warnings.",
+    "date": "2026-07-15",
+    "readTime": "6 min read",
+    "image": "https://images.unsplash.com/photo-1618401471353-b98aedd07871?w=800&auto=format&fit=crop&q=60",
+    "tags": ["Next.js", "React", "Web Performance"],
+    "published": true
+  },
+  {
+    "id": "blog-2",
+    "title": "Building Modular Frontend Architecture with Feature-Based Folders",
+    "description": "How to organize massive React or Next.js codebases using modular design principles, making them scalable, decoupled, and easy to maintain.",
+    "content": "Modular architecture allows developers to scale projects by splitting files based on business domains rather than tech layers...",
+    "date": "2026-06-28",
+    "readTime": "8 min read",
+    "image": "https://images.unsplash.com/photo-1531403009284-440f080d1e12?w=800&auto=format&fit=crop&q=60",
+    "tags": ["Architecture", "Design Patterns", "Clean Code"],
+    "published": true
+  }
+]

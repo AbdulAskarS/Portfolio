@@ -1,0 +1,24 @@
+[
+  {
+    "id": "project-1",
+    "title": "CloudScale Orchestrator",
+    "description": "An enterprise-grade cloud resource scaling engine designed to monitor Kubernetes deployments and dynamically re-allocate nodes.",
+    "longDescription": "CloudScale Orchestrator is a robust solution addressing cold-start times and overhead costs in cloud systems. Utilizing a prediction model, it scales cluster nodes ahead of peak usage periods, achieving up to 40% cloud cost reductions.",
+    "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&auto=format&fit=crop&q=60",
+    "tags": ["Next.js", "TypeScript", "Go", "Kubernetes", "gRPC"],
+    "demoUrl": "https://example.com",
+    "githubUrl": "https://github.com",
+    "featured": true
+  },
+  {
+    "id": "project-2",
+    "title": "Aura AI Chat",
+    "description": "A real-time AI-powered assistant featuring multi-agent capabilities, memory retention, and file semantic analysis.",
+    "longDescription": "Aura AI Chat connects LLM models with local documents using a vector database. It includes a custom Next.js frontend with drag-and-drop file upload, real-time message streaming, and agent management layouts.",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780efad99a?w=800&auto=format&fit=crop&q=60",
+    "tags": ["Next.js", "Tailwind CSS", "Python", "FastAPI", "PostgreSQL"],
+    "demoUrl": "https://example.com",
+    "githubUrl": "https://github.com",
+    "featured": true
+  }
+]
