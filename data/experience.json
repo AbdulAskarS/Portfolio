@@ -1,0 +1,34 @@
+[
+  {
+    "id": "exp-1",
+    "role": "Senior Full Stack Engineer",
+    "company": "TechCorp Solutions",
+    "companyUrl": "https://example.com",
+    "location": "San Francisco, CA (Hybrid)",
+    "startDate": "2022-03",
+    "endDate": "Present",
+    "current": true,
+    "description": [
+      "Led migration from a legacy monolith to a Next.js App Router and Node.js microservices stack, increasing site speed by 45%.",
+      "Architected real-time streaming interfaces using WebSockets and integrated internal LLM models to provide automated user support.",
+      "Mentored a cross-functional team of 6 engineers on clean architecture, TypeScript patterns, and component accessibility best practices."
+    ],
+    "skills": ["Next.js", "React", "Node.js", "Docker", "AWS"]
+  },
+  {
+    "id": "exp-2",
+    "role": "Software Engineer II",
+    "company": "SoftSolutions Inc.",
+    "companyUrl": "https://example.com",
+    "location": "Boston, MA",
+    "startDate": "2019-06",
+    "endDate": "2022-02",
+    "current": false,
+    "description": [
+      "Maintained and enhanced core dashboard analytics pages utilizing React and D3.js chart libraries.",
+      "Optimized database search query indexes in PostgreSQL, reducing query fetch latency by 30%.",
+      "Wrote automated end-to-end integration test suites with Cypress, reducing regression bugs in production releases by 15%."
+    ],
+    "skills": ["React", "PostgreSQL", "Cypress", "D3.js", "CSS"]
+  }
+]

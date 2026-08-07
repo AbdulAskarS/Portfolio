@@ -1,0 +1,54 @@
+{
+  "name": "Abdul Askar",
+  "title": "Senior Full Stack Engineer",
+  "subtitle": "Software Architect",
+  "bio": "Passionate full-stack engineer and software architect with 8+ years of experience building modern, highly scalable, and user-centric web applications. Specialized in Next.js, React, TypeScript, Node.js, and cloud architectures.",
+  "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=face",
+  "email": "abdul.askar@example.com",
+  "phone": "+1 (555) 019-2834",
+  "location": "San Francisco, CA",
+  "cvUrl": "#",
+  "socialLinks": [
+    {
+      "platform": "GitHub",
+      "url": "https://github.com",
+      "icon": "github"
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://linkedin.com",
+      "icon": "linkedin"
+    },
+    {
+      "platform": "Twitter",
+      "url": "https://twitter.com",
+      "icon": "twitter"
+    }
+  ],
+  "services": [
+    {
+      "title": "Full Stack Web Development",
+      "description": "Constructing end-to-end web applications with Next.js, React, TypeScript, and fast REST/gRPC backend microservices."
+    },
+    {
+      "title": "Software Architecture Consulting",
+      "description": "Designing clean architecture systems, database schemas, decoupled component structures, and code modularization standards."
+    },
+    {
+      "title": "DevOps & Cloud Tuning",
+      "description": "Deploying Kubernetes cluster environments, implementing docker builds, configuring CI/CD runners, and optimizing cloud bills."
+    }
+  ],
+  "education": [
+    {
+      "degree": "M.S. in Computer Science",
+      "institution": "Stanford University",
+      "duration": "2017 – 2019"
+    },
+    {
+      "degree": "B.S. in Software Engineering",
+      "institution": "Boston University",
+      "duration": "2013 – 2017"
+    }
+  ]
+}

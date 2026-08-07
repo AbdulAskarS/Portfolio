@@ -1,0 +1,20 @@
+[
+  {
+    "id": "test-1",
+    "name": "Sarah Jenkins",
+    "role": "Engineering Director",
+    "company": "TechCorp Solutions",
+    "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=200&h=200&fit=crop&crop=face",
+    "text": "Abdul is a highly skilled engineer who excels at architecture and system performance. He completely redesigned our main dashboard stack, reducing load times by 45%. A true leader and mentor to other developers.",
+    "rating": 5
+  },
+  {
+    "id": "test-2",
+    "name": "Michael Chen",
+    "role": "Lead Product Owner",
+    "company": "SoftSolutions Inc.",
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&h=200&fit=crop&crop=face",
+    "text": "Working with Abdul was a fantastic experience. He has a unique talent for bridging technical limitations with modern visual experiences. His frontend creations are clean, accessible, and fast.",
+    "rating": 5
+  }
+]

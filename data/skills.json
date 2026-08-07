@@ -1,0 +1,30 @@
+[
+  {
+    "id": "skill-1",
+    "name": "React / Next.js",
+    "category": "Frontend",
+    "level": 95,
+    "icon": "react"
+  },
+  {
+    "id": "skill-2",
+    "name": "TypeScript",
+    "category": "Languages",
+    "level": 90,
+    "icon": "code"
+  },
+  {
+    "id": "skill-3",
+    "name": "Node.js",
+    "category": "Backend",
+    "level": 88,
+    "icon": "server"
+  },
+  {
+    "id": "skill-4",
+    "name": "Docker & Kubernetes",
+    "category": "DevOps",
+    "level": 80,
+    "icon": "container"
+  }
+]
